@@ -1,0 +1,7 @@
+facebook-sdk
+facebook-scraper
+twitter_scraper
+
+transformers
+requests
+bs4
