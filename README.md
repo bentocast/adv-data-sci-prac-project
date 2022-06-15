@@ -1,4 +1,4 @@
-# Slim Detector Project 
+# Political Social Network Collector
 This is a group project for Advance Data Science Practicum Course. My assignment is to collect the Thai political social-network posts.
 
 ## :open_book: Description :open_book:
