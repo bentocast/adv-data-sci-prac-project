@@ -1,4 +1,5 @@
-# Slim Detector Project (Advance Data Science Practicum Course)
+# Slim Detector Project 
+This is a group project for Advance Data Science Practicum Course. My assignment is to collect the Thai political social-network posts.
 
 ## :open_book: Description :open_book:
 This repo collects the script to 
